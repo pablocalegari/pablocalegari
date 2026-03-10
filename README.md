@@ -16,17 +16,20 @@
 
 <br>
 <br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQxNXBldG1kczl2dXR3Y3Z4Z2RjNmNlZmRncWdkN3dwdXBtemRoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bXguSfnEakGFG/giphy.gif" width=330 align="left">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV3azRoMWg1b2pmMjlrMWJteGxvam42b2Vzd3p1dGF5ajVoYm41YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQTBID8suI3AhRXJ4H/giphy.gif" width=550 align="left">
 <div align="center">
 
 **👤 Sobre Mim**
 </div>
-
-<div align="justify">
+<br>
+<div align="center">
   Programador Backend em formação, cursando Análise e Desenvolvimento de Sistemas na UNICID. Agora procuro aprimorar minhas habilidades no Backend e Bancos de Dados, mantendo o meu interesse em AI/ML. <br>
   <br>
-  🎯 Focado em dominar Java e SpringBoot<br>
+  <br>
+  <div align = "center">
+    🎯 Focado em dominar Java e SpringBoot<br>
   🌐 Aprofundando meus estudos sobre Programação Backend
+  </div>
   
 </div>
 </br>
@@ -61,5 +64,5 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=boregs&color=2dba4e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pablocalegari&color=2dba4e&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>

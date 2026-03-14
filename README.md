@@ -4,7 +4,7 @@
   <em>Java Developer</em>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablo-calegari/">
+  <a href="https://www.linkedin.com/in/pablo-calegari-997a40234/">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
   <a href="mailto:pabloantoniocalegari@gmail.com">
